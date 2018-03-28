@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/Java%20Web/StrutsJSFAssign/src/java/controllers/actions/admin/LoginAction.java</file>
+            <file>file:/F:/Java%20Web/StrutsJSFAssign/web/admin/createNews.jsp</file>
+            <file>file:/F:/Java%20Web/StrutsJSFAssign/web/admin/login.jsp</file>
+            <file>file:/F:/Java%20Web/StrutsJSFAssign/src/java/struts.xml</file>
+            <file>file:/F:/Java%20Web/StrutsJSFAssign/src/java/admin.xml</file>
+            <file>file:/F:/Java%20Web/StrutsJSFAssign/src/java/interceptor/admin/CreateInterceptor.java</file>
+            <file>file:/F:/Java%20Web/StrutsJSFAssign/web/admin/admin.jsp</file>
+            <file>file:/F:/Java%20Web/StrutsJSFAssign/src/java/interceptor/admin/LoginInterceptor.java</file>
+            <file>file:/F:/Java%20Web/StrutsJSFAssign/src/java/example.xml</file>
+            <file>file:/F:/Java%20Web/StrutsJSFAssign/src/java/controllers/actions/admin/CreateNewsAction.java</file>
+        </group>
+    </open-files>
+</project-private>
